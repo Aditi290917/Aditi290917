@@ -2,9 +2,9 @@
 <h3 align="center">A Passionate Developer.</h3>
 
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **HTML, CSS,Javascript, React, Angular, Core Java, SQL**
+- 💬 Ask me about **HTML, CSS,Javascript, React, Angular,Node, Express Core Java, SQL**
 
 - 📫 How to reach me **aditikadhane414@gmail.com**
 
